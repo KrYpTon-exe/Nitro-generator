@@ -1,2 +1,2 @@
-# Nitro-generator
-Un generador de nitro creado por Marbio34 𝓢𝓠 ⸸#7038
+Ejecuta el archivo start.bat y sigue los pasos que se te indican 
+creado por Marbio34
